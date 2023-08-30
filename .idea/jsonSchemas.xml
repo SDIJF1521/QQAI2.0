@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="Markdown Front Matter 通用架构">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="Markdown Front Matter 通用架构" />
+              <option name="relativePathToSchema" value="jar://$APPLICATION_HOME_DIR$/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/frontmatter/header/generic_front_matter_header_schema.json" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="XB_config.yml" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="QQAI2/qqai2/plugins/data/store.json" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
